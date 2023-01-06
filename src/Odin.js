@@ -1,6 +1,8 @@
 export const Hero = 3
 export const Capitaine = 2
 export const Soldat = 1
+export const Traitre = 0 
+export const Maudit = -1
 
 
 function getCombinations(lenght = 7) {
